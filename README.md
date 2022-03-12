@@ -1,1 +1,1 @@
-# bot-wallet-ocr
+# OCR em python
